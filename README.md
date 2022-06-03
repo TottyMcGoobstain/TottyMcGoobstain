@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TottyMcGoobstain
 - 👀 I’m interested in ...outdoor activities and travel
-- 🌱 I’m currently learning ...HTML, CSS & RUST
+- 🌱 I’m currently learning ...HTML, CSS, JavaScript & RUST
 - 💞️ I’m looking to collaborate on ... projects within the restaurant food space
 - 📫 How to reach me ... tottymcgoobstain@gmail.com
 
